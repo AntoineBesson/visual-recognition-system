@@ -35,4 +35,4 @@ for region in regionprops(label_image):
         ax1.add_patch(rectBorder)
     # let's draw a red rectangle over those regions
 
-plt.show()
+#plt.show()
